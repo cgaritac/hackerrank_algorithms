@@ -9,6 +9,7 @@ Collection of [HackerRank](https://www.hackerrank.com/domains/algorithms) algori
 | [Between Two Sets](between-two-sets.cs) | Easy | Find numbers divisible by all elements in the first array that are also factors of all elements in the second array |
 | [Bill Division](bill-division.cs) | Easy | Determine if a restaurant bill was split correctly between two people |
 | [Picking Numbers](picking-numbers.cs) | Easy | Find the longest subarray where the absolute difference between any two elements is ≤ 1 |
+| [Day of the Programmer](day_of_the_programmer.cs) | Easy | Find the 256th day of the year according to the Russian calendar (Julian/Gregorian transition) |
 
 ## 🛠️ Tech Stack
 
