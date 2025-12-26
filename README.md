@@ -10,6 +10,7 @@ Collection of [HackerRank](https://www.hackerrank.com/domains/algorithms) algori
 | [Bill Division](bill-division.cs) | Easy | Determine if a restaurant bill was split correctly between two people |
 | [Picking Numbers](picking-numbers.cs) | Easy | Find the longest subarray where the absolute difference between any two elements is ≤ 1 |
 | [Day of the Programmer](day_of_the_programmer.cs) | Easy | Find the 256th day of the year according to the Russian calendar (Julian/Gregorian transition) |
+| [Breaking the Records](breaking_the_records.cs) | Easy | Count how many times a player breaks their season records for most and least points |
 
 ## 🛠️ Tech Stack
 
