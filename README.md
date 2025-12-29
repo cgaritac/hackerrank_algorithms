@@ -13,6 +13,7 @@ Collection of [HackerRank](https://www.hackerrank.com/domains/algorithms) algori
 | [Breaking the Records](breaking_the_records.cs) | Easy | Count how many times a player breaks their season records for most and least points |
 | [Divisible Sum Pairs](divisible_sum_pairs.cs) | Easy | Count pairs of indices where the sum of elements is divisible by k |
 | [Sales by Match](sales_by_match.cs) | Easy | Count how many pairs of socks with matching colors exist in a pile |
+| [Counting Valleys](counting_valleys.cs) | Easy | Count the number of valleys traversed during a hike based on up/down steps |
 
 ## 🛠️ Tech Stack
 
