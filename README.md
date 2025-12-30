@@ -14,6 +14,8 @@ Collection of [HackerRank](https://www.hackerrank.com/domains/algorithms) algori
 | [Divisible Sum Pairs](divisible_sum_pairs.cs) | Easy | Count pairs of indices where the sum of elements is divisible by k |
 | [Sales by Match](sales_by_match.cs) | Easy | Count how many pairs of socks with matching colors exist in a pile |
 | [Counting Valleys](counting_valleys.cs) | Easy | Count the number of valleys traversed during a hike based on up/down steps |
+| [Migratory Birds](migratory_birds.cs) | Easy | Find the most frequently sighted bird type (return lowest id on tie) |
+| [Migratory Birds (LINQ)](migratory_birds_(LinQ).cs) | Easy | Same problem solved using LINQ for a cleaner approach |
 
 ## 🛠️ Tech Stack
 
