@@ -17,6 +17,7 @@ Collection of [HackerRank](https://www.hackerrank.com/domains/algorithms) algori
 | [Migratory Birds](migratory_birds.cs) | Easy | Find the most frequently sighted bird type (return lowest id on tie) |
 | [Migratory Birds (LINQ)](migratory_birds_(LinQ).cs) | Easy | Same problem solved using LINQ for a cleaner approach |
 | [Drawing Book](drawing_book.cs) | Easy | Find the minimum number of page turns to reach a specific page |
+| [Electronics Shop](electronics_shop.cs) | Easy | Find the most expensive keyboard and USB drive combo within a budget |
 
 ## 🛠️ Tech Stack
 
