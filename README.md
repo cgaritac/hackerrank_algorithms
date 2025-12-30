@@ -18,6 +18,7 @@ Collection of [HackerRank](https://www.hackerrank.com/domains/algorithms) algori
 | [Migratory Birds (LINQ)](migratory_birds_(LinQ).cs) | Easy | Same problem solved using LINQ for a cleaner approach |
 | [Drawing Book](drawing_book.cs) | Easy | Find the minimum number of page turns to reach a specific page |
 | [Electronics Shop](electronics_shop.cs) | Easy | Find the most expensive keyboard and USB drive combo within a budget |
+| [Count Elements Greater Than Previous Average](count_elements_greater_than_previous_avarage.cs) | Easy |  Return the number of elements that are strictly greater than the average of all previous elements. Skip the first element |
 
 ## 🛠️ Tech Stack
 
