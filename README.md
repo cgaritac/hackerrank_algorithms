@@ -16,6 +16,7 @@ Collection of [HackerRank](https://www.hackerrank.com/domains/algorithms) algori
 | [Counting Valleys](counting_valleys.cs) | Easy | Count the number of valleys traversed during a hike based on up/down steps |
 | [Migratory Birds](migratory_birds.cs) | Easy | Find the most frequently sighted bird type (return lowest id on tie) |
 | [Migratory Birds (LINQ)](migratory_birds_(LinQ).cs) | Easy | Same problem solved using LINQ for a cleaner approach |
+| [Drawing Book](drawing_book.cs) | Easy | Find the minimum number of page turns to reach a specific page |
 
 ## 🛠️ Tech Stack
 
