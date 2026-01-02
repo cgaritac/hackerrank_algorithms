@@ -19,6 +19,7 @@ Collection of [HackerRank](https://www.hackerrank.com/domains/algorithms) algori
 | [Drawing Book](drawing_book.cs) | Easy | Find the minimum number of page turns to reach a specific page |
 | [Electronics Shop](electronics_shop.cs) | Easy | Find the most expensive keyboard and USB drive combo within a budget |
 | [Count Elements Greater Than Previous Average](count_elements_greater_than_previous_avarage.cs) | Easy |  Return the number of elements that are strictly greater than the average of all previous elements. Skip the first element |
+| [Find the Smallest Missing Positive Integer](find_the_smallest_missing_positive_integer.cs) | Medium | Find the smallest positive integer not present in an unsorted array in O(n) time and O(1) extra space |
 
 ## 🛠️ Tech Stack
 
