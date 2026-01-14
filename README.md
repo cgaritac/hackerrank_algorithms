@@ -21,6 +21,7 @@ Collection of [HackerRank](https://www.hackerrank.com/domains/algorithms) algori
 | [Count Elements Greater Than Previous Average](count_elements_greater_than_previous_avarage.cs) | Easy |  Return the number of elements that are strictly greater than the average of all previous elements. Skip the first element |
 | [Find the Smallest Missing Positive Integer](find_the_smallest_missing_positive_integer.cs) | Medium | Find the smallest positive integer not present in an unsorted array in O(n) time and O(1) extra space |
 | [Merge and Sort Intervals](merge_and_sort_intervals.cs) | Medium | Merge all overlapping intervals and return a sorted array of non-overlapping intervals |
+| [Number Line Jumps](number-line-jumbs.cs) | Easy | Determine if two kangaroos starting at different positions with different jump rates can meet at the same location |
 
 ## 🛠️ Tech Stack
 
