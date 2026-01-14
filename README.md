@@ -22,6 +22,7 @@ Collection of [HackerRank](https://www.hackerrank.com/domains/algorithms) algori
 | [Find the Smallest Missing Positive Integer](find_the_smallest_missing_positive_integer.cs) | Medium | Find the smallest positive integer not present in an unsorted array in O(n) time and O(1) extra space |
 | [Merge and Sort Intervals](merge_and_sort_intervals.cs) | Medium | Merge all overlapping intervals and return a sorted array of non-overlapping intervals |
 | [Number Line Jumps](number-line-jumbs.cs) | Easy | Determine if two kangaroos starting at different positions with different jump rates can meet at the same location |
+| [Climbing the Leaderboard](climbing_the_leaderboard.cs) | Medium | Determine player rankings on a leaderboard using dense ranking system |
 
 ## 🛠️ Tech Stack
 
